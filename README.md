@@ -10,7 +10,7 @@ Hello there! I'm Braeden Silver. This is where I showcase my coding projects. Fe
 
 Here are some of the projects I'm currently working on:
 
-- [Website](https://BraedenSilver.com): a personal website, this is were I plan to host my portfolio and stuff like that. I want to add some cool animations and pictures.
+- [Website](https://github.com/BraedenSilver/BraedenSilver.github.io): a personal website, this is were I plan to host my portfolio and stuff like that. I want to add some cool animations and pictures.
 
 ## Connect with Me
 
