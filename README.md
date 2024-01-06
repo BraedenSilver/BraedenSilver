@@ -6,10 +6,6 @@ Hello there! I'm Braeden Silver. This is where I showcase my coding projects. Fe
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraedenSilver&show_icons=true)
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraedenSilver&layout=pie)](https://github.com/BraedenSilver/github-readme-stats)
-
 ## *note* top languages does not equal high skill or ability
 
 ## Current Projects
