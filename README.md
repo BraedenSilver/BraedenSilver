@@ -18,10 +18,4 @@ Here are some of the projects I'm currently working on:
 
 - [Website](https://github.com/BraedenSilver/BraedenSilver.github.io): a personal website, this is were I plan to host my portfolio and stuff like that. I want to add some cool animations and pictures.
 
-## Connect with Me
-
-If you'd like to get in touch or learn more about me, you can visit my website:
-
-- [BraedenSilver.com](https://BraedenSilver.com)
-
 Thanks for stopping by! Feel free to browse my repositories and explore the code.👩‍💻🚀
