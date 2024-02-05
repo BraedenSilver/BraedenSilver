@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hello there! I'm Braeden Silver. This is where I showcase my coding projects. Feel free to explore.
+Hello there! I'm ShidWit. This is where I showcase my coding projects. Feel free to explore.
 
 ## GitHub Stats
 
