@@ -1,4 +1,3 @@
-<!-- Banner -->
 ![BraedenSilver's GitHub Banner](https://raw.githubusercontent.com/BraedenSilver/BraedenSilver/main/banner.png)
 
 # 👋 Hey, I’m Braeden Silver
