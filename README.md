@@ -29,3 +29,4 @@ Got something cool you’re working on?
 Feel free to reach out or check out my site: **[BraedenSilver.com](https://BraedenSilver.com)**  
 
 Thanks for stopping by — enjoy the chaos. 😎
+
